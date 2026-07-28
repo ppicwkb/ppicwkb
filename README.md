@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -77,7 +77,7 @@ d="M0,224L60,202.7C120,181,240,139,360,149.3C480,160,600,224,720,229.3C840,235,9
 
 </body>
 </html>
-
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=F7B32B&center=true&vCenter=true&width=650&lines=Point+of+Sale+%26+Inventory+System+Developer;Empowering+UMKM+Through+Technology;Real-Time+Stock+%2B+Smart+Cashier+Systems;Building+Scalable+Solutions%2C+One+Store+at+a+Time" alt="Typing SVG" />
 
 <br/>
