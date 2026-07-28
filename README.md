@@ -1,6 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=HARVEY%20MOEID&fontSize=55&fontColor=F7B32B&fontAlignY=40&desc=POS%20%26%20Inventory%20Systems%20for%20Indonesian%20UMKM&descAlignY=58&descSize=18&descColor=E8E8E8" width="100%"/>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background:#0d1117;
+    font-family:Segoe UI,Arial,sans-serif;
+}
+
+.header{
+    width:100%;
+    height:220px;
+    background:linear-gradient(90deg,#0F2027,#203A43,#2C5364);
+    position:relative;
+    overflow:hidden;
+}
+
+/* Efek gelombang */
+.header svg{
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+
+.content{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    text-align:center;
+}
+
+.content h1{
+    color:#F7B32B;
+    font-size:55px;
+    letter-spacing:3px;
+    font-weight:800;
+    text-transform:uppercase;
+}
+
+.content p{
+    margin-top:10px;
+    color:#E8E8E8;
+    font-size:18px;
+    letter-spacing:1px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="header">
+
+<div class="content">
+<h1>HARVEY MOEID</h1>
+<p>POS &amp; Inventory Systems for Indonesian UMKM</p>
+</div>
+
+<svg viewBox="0 0 1440 320">
+<path fill="#0d1117" fill-opacity="1"
+d="M0,224L60,202.7C120,181,240,139,360,149.3C480,160,600,224,720,229.3C840,235,960,181,1080,160C1200,139,1320,149,1380,154.7L1440,160L1440,320L0,320Z">
+</path>
+</svg>
+
+</div>
+
+</body>
+</html>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=F7B32B&center=true&vCenter=true&width=650&lines=Point+of+Sale+%26+Inventory+System+Developer;Empowering+UMKM+Through+Technology;Real-Time+Stock+%2B+Smart+Cashier+Systems;Building+Scalable+Solutions%2C+One+Store+at+a+Time" alt="Typing SVG" />
 
