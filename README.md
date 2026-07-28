@@ -57,26 +57,7 @@ body{
 }
 </style>
 
-</head>
-<body>
 
-<div class="header">
-
-<div class="content">
-<h1>HARVEY MOEID</h1>
-<p>POS &amp; Inventory Systems for Indonesian UMKM</p>
-</div>
-
-<svg viewBox="0 0 1440 320">
-<path fill="#0d1117" fill-opacity="1"
-d="M0,224L60,202.7C120,181,240,139,360,149.3C480,160,600,224,720,229.3C840,235,960,181,1080,160C1200,139,1320,149,1380,154.7L1440,160L1440,320L0,320Z">
-</path>
-</svg>
-
-</div>
-
-</body>
-</html>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=F7B32B&center=true&vCenter=true&width=650&lines=Point+of+Sale+%26+Inventory+System+Developer;Empowering+UMKM+Through+Technology;Real-Time+Stock+%2B+Smart+Cashier+Systems;Building+Scalable+Solutions%2C+One+Store+at+a+Time" alt="Typing SVG" />
 
