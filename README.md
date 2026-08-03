@@ -115,8 +115,6 @@ Sistem manajemen stok real-time dengan notifikasi otomatis, pelacakan barang mas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harveymoeid&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harveymoeid&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=harveymoeid&theme=tokyonight&border_radius=12&hide_border=true" alt="GitHub Streak" />
 
