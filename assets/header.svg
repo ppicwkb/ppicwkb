@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Harvey Moeid - Cloudflare-native software for Indonesian small business">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0A17"/>
+      <stop offset="1" stop-color="#17123A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.5" r="0.42">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DCD3FF"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+
+    <!-- edge network -->
+    <g stroke="#A78BFA" stroke-opacity="0.45" stroke-width="1.2" fill="none">
+      <path d="M740 215 L850 120"/>
+      <path d="M850 120 L960 190"/>
+      <path d="M850 120 L930 55"/>
+      <path d="M930 55 L1040 90"/>
+      <path d="M960 190 L1040 90"/>
+      <path d="M960 190 L1110 205"/>
+      <path d="M1040 90 L1110 205"/>
+      <path d="M1040 90 L1150 60" stroke-opacity="0.25"/>
+      <path d="M740 215 L700 270" stroke-opacity="0.25"/>
+    </g>
+    <g fill="#A78BFA">
+      <circle cx="740" cy="215" r="5"/>
+      <circle cx="850" cy="120" r="6"/>
+      <circle cx="930" cy="55" r="4"/>
+      <circle cx="1040" cy="90" r="6"/>
+      <circle cx="1110" cy="205" r="5"/>
+    </g>
+    <g fill="#A78BFA" fill-opacity="0.35">
+      <circle cx="1150" cy="60" r="3"/>
+      <circle cx="700" cy="270" r="3"/>
+    </g>
+
+    <!-- worker node -->
+    <circle cx="960" cy="190" r="16" fill="none" stroke="#F6821F" stroke-opacity="0.6" stroke-width="1.5">
+      <animate attributeName="r" values="12;24;12" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.7;0;0.7" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="960" cy="190" r="9" fill="#F6821F"/>
+
+    <!-- packet -->
+    <circle r="4" fill="#FFB36B">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M740 215 L850 120 L960 190 L1110 205"/>
+    </circle>
+
+    <!-- text -->
+    <text x="72" y="84" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="15" fill="#A78BFA" letter-spacing="0.5">MuidSoft  |  Surabaya, Indonesia</text>
+    <text x="72" y="160" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="84" font-weight="600" letter-spacing="-1" fill="url(#name)">Harvey Moeid</text>
+    <text x="74" y="208" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#ECE9FF">Cloudflare-native software</text>
+    <text x="74" y="242" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#8B88A8">for Indonesian small business</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#A78BFA" stroke-opacity="0.22"/>
+</svg>
